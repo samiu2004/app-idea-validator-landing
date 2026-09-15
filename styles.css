@@ -1014,6 +1014,9 @@ h1 span,
   border-color: rgb(255 119 109 / 45%);
   background: rgb(255 119 109 / 8%);
   color: #ffaaa3;
+  padding: 12px 14px;
+  font-size: 0.82rem;
+  font-weight: 500;
 }
 
 .form-fields[hidden] {
